@@ -1,2 +1,2 @@
 # store_eda_py
-EDA of a store dataset
+Analyzed a store dataset to find insights
