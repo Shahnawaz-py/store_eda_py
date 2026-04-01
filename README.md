@@ -1,5 +1,8 @@
 # store_eda_py
 
+Dataset link (Kaggle):
+https://www.kaggle.com/datasets/konstantinognev/sample-superstorecsv
+
 Overview
 This project presents an in-depth Exploratory Data Analysis (EDA) on a sample retail store dataset sourced from Kaggle.
 The goal is to uncover meaningful insights, identify patterns, and analyze key business metrics to support data-driven decision-making.
